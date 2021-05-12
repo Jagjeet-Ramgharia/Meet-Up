@@ -1,0 +1,20 @@
+.imageupload{
+    display: flex;
+    flex-direction: column;
+    max-width: 300px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.img_progress{
+    width: 100%;
+    margin-bottom: 5px;
+    color: #6082a3;
+}
+.post_caption{
+    outline: #6082a3;
+    border: none;
+    border-bottom:1px solid ;
+    margin-bottom: 5px;
+}
